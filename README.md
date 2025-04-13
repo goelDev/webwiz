@@ -1,7 +1,9 @@
 # 🧠 Evil Geniuses
 
 <div align="center">
-  <img src="logo.jpeg" href="https://github.com/suyash-boop/wizard3-o" width="300" height="100">
+  <a href="https://github.com/suyash-boop/wizard3-o" target="_blank">
+    <img src="logo.jpeg" width="300" height="100" alt="Evil Geniuses Logo">
+  </a>
 </div>
 
 <h2 align="center">A Portfolio Website by a Team of 4 Developers</h2>
@@ -10,6 +12,26 @@
 A collaborative digital space to showcase our skills, projects, and passion for building.  
 This isn't just a portfolio — it's where creativity meets clean code.
 </p>
+
+<p align="center">
+  <a href="https://vercel.com"><img src="https://vercel.com/api/badge?project=your-project-name" alt="Vercel Deploy"></a>
+  <img src="https://img.shields.io/github/license/your-username/your-repo" alt="License">
+  <img src="https://img.shields.io/github/contributors/your-username/your-repo" alt="Contributors">
+</p>
+
+---
+
+## 🔗 Live Demo
+
+Check out the live version here: [evilgeniuses.dev](https://evilgeniuses.dev)  
+_(Replace with your actual URL)_
+
+---
+
+## 🎥 Preview
+
+![Website Preview](preview.gif)  
+_(Or use screenshots if GIF not available)_
 
 ---
 
@@ -40,8 +62,8 @@ This project is a blend of aesthetics and performance — built with cutting-edg
   Functional sign-up form to capture emails and build a dev audience.
 
 - 📨 **Contact Us Form**  
-  Sleek and functional contact form for visitors to connect with us directly.<br>
-  The Data of the Contact Us Form is sent to the Discord server via Web-hooks (<a href="https://discord.gg/bxnAezT4fK">Discord Server</a>)
+  Sleek and functional contact form for visitors to connect with us directly.  
+  The data of the contact form is sent to our Discord server via Webhooks: [Join Discord Server](https://discord.gg/bxnAezT4fK)
 
 - 🧼 **Clean, Scalable Codebase**  
   Modular folder structure, reusable components, and clean logic — optimized for scalability and collaboration.
@@ -71,18 +93,33 @@ This project is a blend of aesthetics and performance — built with cutting-edg
 
 ## 👥 Team Evil Geniuses
 
-- 🧠 <a href="https://github.com/suyash-boop">Suyash Padole</a>
-- 🚀 <a href="https://github.com/Dhruv-117">Dhruv Khodke</a>
-- 💡 <a href="https://github.com/AdityaBharde">Aditya Bharde</a>
-- 🔥 <a href="https://github.com/goelDev">Devansh Goel</a>
+- 🧠 [Suyash Padole](https://github.com/suyash-boop)
+- 🚀 [Dhruv Khodke](https://github.com/Dhruv-117)
+- 💡 [Aditya Bharde](https://github.com/AdityaBharde)
+- 🔥 [Devansh Goel](https://github.com/goelDev)
 
 ---
-Mentored by GDG RBU
+
+### 🎓 Mentored by GDG RBU
+
 ---
-## Liked it?
-Hope you liked this project, don't forget to give it a star ⭐.
---- 
+
+## 🤝 Contributions
+
+We welcome contributions!  
+Feel free to fork this repo, submit pull requests, or open issues to collaborate with us.
+
+---
+
+## ⭐ Liked it?
+
+Hope you liked this project!  
+Don’t forget to give it a star ⭐
+
+---
+
 > _“Inspired by creativity. Driven by code. Powered by teamwork.”_
 
 ---
+
 

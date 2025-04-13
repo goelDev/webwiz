@@ -75,6 +75,7 @@ This project is a blend of aesthetics and performance — built with cutting-edg
 - 💡 <a href="https://github.com/AdityaBharde">Aditya Bharde</a>
 - 🔥 <a href="https://github.com/goelDev">Devansh Goel</a>
 
+> _"We code together, debug each other, and build things we're proud of."_
 ---
 
 

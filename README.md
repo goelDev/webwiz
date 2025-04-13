@@ -76,6 +76,12 @@ This project is a blend of aesthetics and performance — built with cutting-edg
 - 💡 <a href="https://github.com/AdityaBharde">Aditya Bharde</a>
 - 🔥 <a href="https://github.com/goelDev">Devansh Goel</a>
 
+---
+Mentored by GDG RBU
+---
+## Liked it?
+Hope you liked this project, don't forget to give it a star ⭐.
+--- 
 > _“Inspired by creativity. Driven by code. Powered by teamwork.”_
 
 ---

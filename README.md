@@ -13,12 +13,6 @@ A collaborative digital space to showcase our skills, projects, and passion for 
 This isn't just a portfolio — it's where creativity meets clean code.
 </p>
 
-<p align="center">
-  <a href="https://vercel.com"><img src="https://vercel.com/api/badge?project=" alt="Vercel Deploy"></a>
-  <img src="https://img.shields.io/github/license/suyash-boop/wizard3-o" alt="License">
-  <img src="https://img.shields.io/github/contributors/suyash-boop/wizard3-o" alt="Contributors">
-</p>
-
 ---
 
 ## 🔗 Live Demo

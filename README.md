@@ -40,7 +40,8 @@ This project is a blend of aesthetics and performance — built with cutting-edg
   Functional sign-up form to capture emails and build a dev audience.
 
 - 📨 **Contact Us Form**  
-  Sleek and functional contact form for visitors to connect with us directly.
+  Sleek and functional contact form for visitors to connect with us directly.<br>
+  The Data of the Contact Us Form is sent to the Discord server via Web-hooks (<a href="https://discord.gg/bxnAezT4fK">Discord Server</a>)
 
 - 🧼 **Clean, Scalable Codebase**  
   Modular folder structure, reusable components, and clean logic — optimized for scalability and collaboration.

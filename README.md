@@ -17,6 +17,20 @@ A collaborative digital space built by four passionate developers to showcase ou
 This website isn’t just a portfolio—it’s our playground for creativity, clean code, and bold UI/UX design. From smooth animations to responsive layouts, we’ve crafted every component with purpose and personality.
 
 # Features 
-#Sleek, responsive UI built with React and Tailwind CSS <br>
-#Creative Dev Vibe aesthetic with smooth transitions and bold visuals <br>
-#
+⚡ Sleek & Responsive UI
+Built with Next.js and styled using Shadcn/UI and @ey—designed to look sharp on any screen.
+
+🎨 Creative Dev Vibe
+Aesthetic that blends smooth transitions, bold visuals, and a developer’s personality.
+
+🔐 OAuth Login
+Seamless login system with GitHub and Discord integration.
+
+🤖 Built-in ChatBot
+Ask questions, get instant responses—our integrated ChatBot is ready to help.
+
+📬 Newsletter Integration
+Stay in the loop with a fully functional newsletter sign-up.
+
+📨 Contact Us Form
+Connect directly with the team through a sleek and responsive contact form.

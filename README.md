@@ -71,7 +71,7 @@ This project is a blend of aesthetics and performance — built with cutting-edg
 ## 👥 Team Evil Geniuses
 
 - 🧠 <a href="https://github.com/suyash-boop">Suyash Padole</a>
-- 🚀 <a href="https://github.com/suyash-boop">Dhruv Khodke</a>
+- 🚀 <a href="https://github.com/Dhruv-117">Dhruv Khodke</a>
 - 💡 <a href="https://github.com/AdityaBharde">Aditya Bharde</a>
 - 🔥 <a href="https://github.com/goelDev">Devansh Goel</a>
 

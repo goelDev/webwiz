@@ -12,11 +12,11 @@
       </p>
 </div>
 
-# About the Project
+## About the Project
 A collaborative digital space built by four passionate developers to showcase our skills, projects, and teamwork.
 This website isn’t just a portfolio—it’s our playground for creativity, clean code, and bold UI/UX design. From smooth animations to responsive layouts, we’ve crafted every component with purpose and personality.
 
-# Features 
+## Features 
 ⚡ Sleek & Responsive UI
 Built with Next.js and styled using Shadcn/UI and @ey—designed to look sharp on any screen.
 
@@ -35,7 +35,7 @@ Stay in the loop with a fully functional newsletter sign-up.
 📨 Contact Us Form
 Connect directly with the team through a sleek and responsive contact form.
 
-# Tech Stack
+## Tech Stack
 Frontend: Next.js, React.js, Shadcn/UI, Tailwind CSS.
 
 Backend: Mongo-DB, Better-auth, Prisma.
@@ -44,5 +44,5 @@ Deployment: Vercel.
 
 Version Control: Git & GitHub
 
-# Team
+## Team
 

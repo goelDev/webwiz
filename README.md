@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lukazbaum/discord-bot-handler">
-    <img src="logo.jpeg" alt="Logo" width="100" height="100">
+    <img src="logo.jpeg" alt="Logo" width="300" height="100">
   </a>
 
   <h2 align="center">Evil Genuises</h2>
@@ -34,3 +34,12 @@ Stay in the loop with a fully functional newsletter sign-up.
 
 📨 Contact Us Form
 Connect directly with the team through a sleek and responsive contact form.
+
+# Tech Stack
+Frontend: Next.js, React.js
+
+Backend (optional): Node.js, Express
+
+Deployment: Vercel / Netlify / Render
+
+Version Control: Git & GitHub

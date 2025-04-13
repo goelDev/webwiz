@@ -39,13 +39,19 @@ Connect directly with the team through a sleek and responsive contact form.
 Structured with reusability and readability in mind—easy to maintain, extend, and collaborate on.
 
 ## Tech Stack
-Frontend: Next.js, React.js, Shadcn/UI, Tailwind CSS.
+Frontend
+Next.js • React.js • Shadcn/UI • Tailwind CSS
 
-Backend: Mongo-DB, Better-auth, Prisma.
+Backend
+MongoDB • Prisma ORM • Better Auth
 
-Deployment: Vercel.
+Deployment
+Vercel
 
-Version Control: Git & GitHub
+Version Control
+Git & GitHub
+
+
 
 ## Team
 <a href="#about-the-project">Suyash Padole</a>

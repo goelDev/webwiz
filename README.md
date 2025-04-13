@@ -1,7 +1,7 @@
 # 🧠 Evil Geniuses
 
 <div align="center">
-  <img src="logo.jpeg" alt="Evil Geniuses Logo" href="https://github.com/suyash-boop/wizard3-o" width="300" height="100"/>
+  <img src="logo.jpeg" href="https://github.com/suyash-boop/wizard3-o" width="300" height="100">
 </div>
 
 <h2 align="center">A Portfolio Website by a Team of 4 Developers</h2>

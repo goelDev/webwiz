@@ -1,61 +1,85 @@
-# Evil Genuises 
-<br />
-<div align="center">
-  <a href="https://github.com/lukazbaum/discord-bot-handler">
-    <img src="logo.jpeg" alt="Logo" width="300" height="100">
-  </a>
+# 🧠 Evil Geniuses
 
-  <h2 align="center">Evil Genuises</h2>
-  <p align="center">
-  A Portfolio Website of a Team of 4  Programmers Working as Developers 
-    <br />
-      </p>
+<div align="center">
+  <img src="logo.jpeg" alt="Evil Geniuses Logo" width="300" height="100"/>
 </div>
 
-## About the Project
-A collaborative digital space built by four passionate developers to showcase our skills, projects, and teamwork.
-This website isn’t just a portfolio—it’s our playground for creativity, clean code, and bold UI/UX design. From smooth animations to responsive layouts, we’ve crafted every component with purpose and personality.
+<h2 align="center">A Portfolio Website by a Team of 4 Developers</h2>
 
-## Features 
-⚡ Sleek & Responsive UI
-Built with Next.js and styled using Shadcn/UI and @ey—designed to look sharp on any screen.
+<p align="center">
+A collaborative digital space to showcase our skills, projects, and passion for building.  
+This isn't just a portfolio — it's where creativity meets clean code.
+</p>
 
-🎨 Creative Dev Vibe
-Aesthetic that blends smooth transitions, bold visuals, and a developer’s personality.
+---
 
-🔐 OAuth Login
-Seamless login system with GitHub and Discord integration.
+## 🚀 About the Project
 
-🤖 Built-in ChatBot
-Ask questions, get instant responses—our integrated ChatBot is ready to help.
+**Evil Geniuses** is a modern portfolio website built by a team of four passionate developers.  
+It serves as a collective showcase of our technical skills, team projects, and shared enthusiasm for design and development.
 
-📬 Newsletter Integration
-Stay in the loop with a fully functional newsletter sign-up.
+This project is a blend of aesthetics and performance — built with cutting-edge tech, animated transitions, and real-time integrations.
 
-📨 Contact Us Form
-Connect directly with the team through a sleek and responsive contact form.
+---
 
-🧼 Clean, Scalable Codebase
-Structured with reusability and readability in mind—easy to maintain, extend, and collaborate on.
+## ✨ Features
 
-## Tech Stack
-Frontend
-Next.js • React.js • Shadcn/UI • Tailwind CSS
+- ⚡ **Sleek & Responsive UI**  
+  Built using **Next.js**, styled with **Shadcn/UI** and **@ey** — fully responsive across all devices.
 
-Backend
-MongoDB • Prisma ORM • Better Auth
+- 🎨 **Creative Dev Vibe**  
+  Visually bold and animated — smooth transitions, interactive layouts, and a touch of personality.
 
-Deployment
-Vercel
+- 🔐 **OAuth Login**  
+  GitHub and Discord authentication with session management.
 
-Version Control
-Git & GitHub
+- 🤖 **Built-in ChatBot**  
+  Real-time chatbot powered by AI to answer user queries.
+
+- 📬 **Newsletter Integration**  
+  Functional sign-up form to capture emails and build a dev audience.
+
+- 📨 **Contact Us Form**  
+  Sleek and functional contact form for visitors to connect with us directly.
+
+- 🧼 **Clean, Scalable Codebase**  
+  Modular folder structure, reusable components, and clean logic — optimized for scalability and collaboration.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+- [Next.js](https://nextjs.org/)  
+- [React.js](https://reactjs.org/)  
+- [Shadcn/UI](https://ui.shadcn.com/)  
+- [Tailwind CSS](https://tailwindcss.com/)
+
+**Backend:**  
+- [MongoDB](https://www.mongodb.com/)  
+- [Prisma ORM](https://www.prisma.io/)  
+- [Better Auth / NextAuth](https://next-auth.js.org/)
+
+**Deployment:**  
+- [Vercel](https://vercel.com/)
+
+**Version Control:**  
+- Git & GitHub
+
+---
+
+## 👥 Team Evil Geniuses
+
+- 🧠 [Suyash Padole](#)
+- 🚀 [Dhruv Khodke](#)
+- 💡 [Aditya Bharde](#)
+- 🔥 [Devansh Goel](#)
+
+---
 
 
 
-## Team
-<a href="#about-the-project">Suyash Padole</a>
-<a href="#about-the-project">Dhruv Khodke</a>
-<a href="#about-the-project">Aditya Bharde</a>
-<a href="#about-the-project">Devansh Goel</a>
+> _“Inspired by creativity. Driven by code. Powered by teamwork.”_
+
+---
 

@@ -14,9 +14,9 @@ This isn't just a portfolio — it's where creativity meets clean code.
 </p>
 
 <p align="center">
-  <a href="https://vercel.com"><img src="https://vercel.com/api/badge?project=your-project-name" alt="Vercel Deploy"></a>
-  <img src="https://img.shields.io/github/license/your-username/your-repo" alt="License">
-  <img src="https://img.shields.io/github/contributors/your-username/your-repo" alt="Contributors">
+  <a href="https://vercel.com"><img src="https://vercel.com/api/badge?project=" alt="Vercel Deploy"></a>
+  <img src="https://img.shields.io/github/license/suyash-boop/wizard3-o" alt="License">
+  <img src="https://img.shields.io/github/contributors/suyash-boop/wizard3-o" alt="Contributors">
 </p>
 
 ---

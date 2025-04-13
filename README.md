@@ -36,10 +36,13 @@ Stay in the loop with a fully functional newsletter sign-up.
 Connect directly with the team through a sleek and responsive contact form.
 
 # Tech Stack
-Frontend: Next.js, React.js
+Frontend: Next.js, React.js, Shadcn/UI, Tailwind CSS.
 
-Backend (optional): Node.js, Express
+Backend: Mongo-DB, Better-auth, Prisma.
 
-Deployment: Vercel / Netlify / Render
+Deployment: Vercel.
 
 Version Control: Git & GitHub
+
+# Team
+

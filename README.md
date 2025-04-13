@@ -35,6 +35,9 @@ Stay in the loop with a fully functional newsletter sign-up.
 📨 Contact Us Form
 Connect directly with the team through a sleek and responsive contact form.
 
+🧼 Clean, Scalable Codebase
+Structured with reusability and readability in mind—easy to maintain, extend, and collaborate on.
+
 ## Tech Stack
 Frontend: Next.js, React.js, Shadcn/UI, Tailwind CSS.
 
@@ -45,4 +48,8 @@ Deployment: Vercel.
 Version Control: Git & GitHub
 
 ## Team
+<a href="#about-the-project">Suyash Padole</a>
+<a href="#about-the-project">Dhruv Khodke</a>
+<a href="#about-the-project">Aditya Bharde</a>
+<a href="#about-the-project">Devansh Goel</a>
 

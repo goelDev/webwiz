@@ -1,12 +1,11 @@
-#  EcoBuddy
+#  🌿EcoBuddy
 
 <div align="center">
   <a href="https://github.com/suyash-boop/wizard3-o" target="_blank">
-    <img src="" width="300" height="100" alt="Evil Geniuses Logo">
+    <img src="logo.png" width="50" height="50" alt="Evil Geniuses Logo">
   </a>
 </div>
-
-<h2 align="center"></h2>
+<h2 align="center">EcoBuddy</h2>
 
 <p align="center">
 
@@ -58,7 +57,8 @@ Check out the live version here: [EcoBuddy]()
 
 ---
 
-## 👥 Team Evil Geniuses
+## 👥 Team Evil Geniuses [(Team Portfolio)](https://wizard3-o.vercel.app/home)
+
 
 - 🧠 [Suyash Padole](https://github.com/suyash-boop)
 - 🚀 [Dhruv Khodke](https://github.com/Dhruv-117)

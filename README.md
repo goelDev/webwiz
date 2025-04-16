@@ -30,10 +30,7 @@ Check out the live version here: [EcoBuddy]()
 
 ## 🚀 About the Project
 
-**Evil Geniuses** is a modern portfolio website built by a team of four passionate developers.  
-It serves as a collective showcase of our technical skills, team projects, and shared enthusiasm for design and development.
-
-This project is a blend of aesthetics and performance — built with cutting-edge tech, animated transitions, and real-time integrations.
+**Eco Buddy** 
 
 ---
 
